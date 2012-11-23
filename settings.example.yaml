@@ -1,0 +1,9 @@
+sapo:
+    username: username@sapo.pt
+    password: p4ssw0rd
+
+    STS:
+        ESBAccessKey: 12345678-ABDC-1234-ABCD-123456789012
+
+    MeoEPG:
+        ESBAccessKey: 12345678-ABDC-1234-ABCD-123456789012
